@@ -1,0 +1,10 @@
+npm i 
+react-pro-sidebar@0.7.1 
+@mui/material @emotion/react @emotion/styled @mui/x-data-grid @mui/icons-ma
+terial 
+react-router-dom@6 
+react-pro-sidebar 
+formik yup 
+@fullcalendar/core @fullcalendar/daygrid @fullcalend 
+ar/timegrid @fullcalendar/list 
+@nivo/core @nivo/line @nivo/pie @nivo/bar @nivo/geo
